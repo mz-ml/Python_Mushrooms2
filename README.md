@@ -2,4 +2,4 @@
 
 #### Project Statement
 
-- We predicted mushroom toxicity from images by training Random Forest, Kernel SVM, and CNN with data augmentation and transfer learning (ResNet).
+- We predicted mushroom toxicity from images by training Random Forest, Kernel SVM, and CNN with data augmentation and transfer learning (ResNet) using *Tensorflow*.
