@@ -1,4 +1,4 @@
-## Classification of Edible and Poisonous Mushrooms (Python: PyTorch)
+## Classification of Edible and Poisonous Mushrooms
 
 #### Project Statement
 
